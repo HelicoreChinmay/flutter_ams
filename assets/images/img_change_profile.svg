@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86.013" height="23.422" viewBox="0 0 86.013 23.422">
+  <g id="Group_6778" data-name="Group 6778" transform="translate(-9997.952 -265.015)">
+    <path id="Intersection_2" data-name="Intersection 2" d="M0,0H86.013A51.141,51.141,0,0,1,43.007,23.422,51.142,51.142,0,0,1,0,0Z" transform="translate(9997.952 265.015)" opacity="0.26"/>
+    <g id="Group_6777" data-name="Group 6777" transform="translate(10033.519 270.22)" opacity="0.44">
+      <g id="photo-camera" transform="translate(0 0)">
+        <g id="Group_666" data-name="Group 666">
+          <path id="Path_4211" data-name="Path 4211" d="M13.5,12.25H11.7a.668.668,0,0,1-.592-.427l-.465-1.4A.668.668,0,0,0,10.05,10H4.95a.668.668,0,0,0-.592.427l-.465,1.4a.668.668,0,0,1-.592.427H1.5A1.5,1.5,0,0,0,0,13.75V20.5A1.5,1.5,0,0,0,1.5,22h12A1.5,1.5,0,0,0,15,20.5V13.75A1.5,1.5,0,0,0,13.5,12.25Zm-6,8.25a3.75,3.75,0,1,1,3.75-3.75A3.75,3.75,0,0,1,7.5,20.5Zm5.475-5.7a.525.525,0,1,1,.525-.525A.525.525,0,0,1,12.974,14.8Z" transform="translate(0 -10)" fill="#fff"/>
+        </g>
+      </g>
+      <circle id="Ellipse_29" data-name="Ellipse 29" cx="2.887" cy="2.887" r="2.887" transform="translate(4.481 3.75)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
